@@ -10,3 +10,4 @@ let a=2, b=8, c;
 c = sumar (a, b);
 
 console.log(`Resultado sumar:`,c);
+
